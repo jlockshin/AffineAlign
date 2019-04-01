@@ -1,0 +1,27 @@
+CSCI 598A --- Bioinformatics --- Homework 2
+Jane Lockshin
+October 04, 2018
+Colorado School of Mines
+
+--------------------------------------------------------------------
+
+Homework 2 Submission Includes:
+
+-affine_align.py: Program that runs Problem 1. 
+Takes in an input file of sequences, and returns the global alignment.
+
+-align_input.txt: A sample input file to run the code.
+
+-BioinformaticsHW2.pdf: Written answers to problems 2 and 3.
+
+--------------------------------------------------------------------
+
+Running the code:
+
+In the command line: 
+
+Navigate to the directory where the python/input files are located.
+
+Type: 'python affine_align' or 'python3 affine_align.py' 
+
+The alignment will be printed to the screen.
